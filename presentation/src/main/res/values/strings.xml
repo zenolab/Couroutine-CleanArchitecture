@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="loading">Please wait...</string>
+    <string name="health">Health</string>
+    <string name="signin">Sign in</string>
+    <string name="start">Start</string>
+    <string name="name">Clean Arhitecture</string>
+    <string name="date">Today</string>
+    <string name="empty_list">List is empty.</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">The concentric circles represent different areas of software. In general, the further in you go, the higher level the software becomes. The outer circles are mechanisms. The inner circles are policies.</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_clicked">not_clicked</string>
+    <string name="clicked">clicked</string>
+</resources>
